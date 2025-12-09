@@ -1,0 +1,14 @@
+# Binários
+bin/
+*.exe
+*.out
+
+# Go
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+*.log
